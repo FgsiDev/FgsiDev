@@ -118,8 +118,8 @@ Web scraping & bypass system untuk layanan ad-gate/shortlink Indonesia, dibangun
 | **Runtime & Server** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
 | **Automation** | ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![CDP](https://img.shields.io/badge/Chrome%20DevTools%20Protocol-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
 | **Bot Ecosystem** | ![WhatsApp](https://img.shields.io/badge/Baileys%20%2F%20WA%20Web-25D366?style=flat-square&logo=whatsapp&logoColor=white) |
-| **Data & Storage** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Deployment** | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Data & Storage** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  ![JSON](https://img.shields.io/badge/JSON-yellow?style=flat-square&logo=json&logoColor=white) |
+| **Deployment** | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Daily Driver** | ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=green) ![Linux](https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
@@ -146,8 +146,9 @@ Web scraping & bypass system untuk layanan ad-gate/shortlink Indonesia, dibangun
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://twitter.com/fgsidev"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/FgsiDev"><img src="https://img.shields.io/badge/GitHub-0A0A0B?style=for-the-badge&logo=github&logoColor=F59E0B" /></a>
+  <a href="https://chat.whatsapp.com/ClTu6hz1PjbCYsliqNGvis"><img src="https://img.shields.io/badge/WhatsApp Group-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://whatsapp.com/channel/0029VapkSr45q08hPPPVqy26"><img src="https://img.shields.io/badge/WhatsApp Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <div align="center">
