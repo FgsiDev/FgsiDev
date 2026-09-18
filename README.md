@@ -85,19 +85,24 @@ Web scraping & bypass system untuk layanan ad-gate/shortlink Indonesia, dibangun
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Radar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,express,nextjs,react,tailwind,docker,linux,bash,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nextjs,react,tailwind,docker,linux,bash,git,github,vscode,androidstudio&theme=dark&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=green" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-</p>
+<div align="center">
+
+| Kategori | Tools |
+|---|---|
+| **Runtime & Server** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Automation** | ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![CDP](https://img.shields.io/badge/Chrome%20DevTools%20Protocol-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| **Bot Ecosystem** | ![WhatsApp](https://img.shields.io/badge/Baileys%20%2F%20WA%20Web-25D366?style=flat-square&logo=whatsapp&logoColor=white) |
+| **Data & Storage** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Deployment** | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Daily Driver** | ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=green) ![Linux](https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
 
 ---
 
