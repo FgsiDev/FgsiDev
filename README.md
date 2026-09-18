@@ -40,27 +40,39 @@ const fgsiDev = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 **🔐 baileys-auth**
 External auth-state package buat Baileys (WhatsApp lib). Support multi backend — file, sql.js, better-sqlite3 — plus penanganan khusus buat Termux yang sering gagal install native module.
-
+- Repo: https://github.com/FgsiDev/Baileys-Auth
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
 
 **🎬 JJ CapCut Automation**
 Sistem otomasi CapCut lewat Puppeteer/CDP. Next.js + Express custom server, lengkap dengan anti-scrape hardening, rate limiting, dan SEO (OG/Twitter Card/JSON-LD).
-
+- Web: https://cc.fgsi.dpdns.org
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
 
 **📡 FGSI RestAPIs**
 Platform REST API untuk komunitas developer bot Indonesia, dengan design system dark + amber, panel IP whitelist, changelog system, dan screenshot service.
-
+- Web: https://fgsi.dpdns.org
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
 
 **🎨 Presetku (ampreset)**
 Platform cloud buat sharing preset Alight Motion, full-stack dengan Google OAuth, Express + Next.js.
@@ -68,13 +80,21 @@ Platform cloud buat sharing preset Alight Motion, full-stack dengan Google OAuth
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
 
 **🖥️ VPS Management Panel**
 Panel manajemen VPS self-hosted (vanilla HTML + Express, no build step), lengkap terminal WebSocket via node-pty dan SSH relay/port-forwarding.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
 
 **🔓 Safelink Bypass Tools**
 Web scraping & bypass system untuk layanan ad-gate/shortlink Indonesia, dibangun dengan axios, tough-cookie, dan cheerio.
