@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FgsiDev&label=Profile%20Views&color=F59E0B&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/FgsiDev?label=Followers&style=for-the-badge&color=0A0A0B&labelColor=F59E0B" alt="followers" />
+  <img src="https://count.getloli.com/@FgsiDev?name=FgsiDev&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Count" />
 </p>
 
 ---
